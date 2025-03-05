@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backend.",
+			"path": "."
+		},
+		{
+			"name": "__pycache__",
+			"path": "../ninety/WELLHALL-WEBSITE/Backend/__pycache__"
+		}
+	],
+	"settings": {}
+}
